@@ -1,0 +1,9 @@
+[submodule "breadcrumbs"]
+	path = breadcrumbs
+	url = https://github.com/OffCourse/component-breadcrumbs.git
+[submodule "level-button"]
+	path = level-button
+	url = https://github.com/OffCourse/component-level-button.git
+[submodule "logo"]
+	path = logo
+	url = https://github.com/OffCourse/component-logo.git
